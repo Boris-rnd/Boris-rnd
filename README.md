@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I've made several projects over the years (I started when I was 9). I started by learning Python, then I wanted to go more low level to get more speed, I tried C++ but didn't like it that much
+Then I discovered the blazingly fast rust, I made my own OS, Risc-V emulator, raytracer, physics simulations and much more
+
+Most of my projects are pinned, or are in the `Old-projects` and `portfolio-projects` repo
+
+Now I want to learn (quantum) physics to work on quantum computer hardware
+In the future I would like to unite all of these passions: maths, physics and computer science, and if possible, ecology
+
 <!--
 **Boris-rnd/Boris-rnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
