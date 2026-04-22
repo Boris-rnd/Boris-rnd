@@ -1,16 +1,19 @@
 ## Hi there 👋
 
+I've made several projects over the years (I started when I was 9). I started by learning Python, then I wanted to go more low level to get more speed, I tried C++ but didn't like it that much
+Then I discovered the blazingly fast rust, I made my own OS, Risc-V emulator, raytracer, physics simulations and much more
+
+Most of my projects are pinned, or are in the `Old-projects` and `portfolio-projects` repo
+
+Now I want to learn (quantum) physics to work on quantum computer hardware
+In the future I would like to unite all of these passions: maths, physics and computer science, and if possible, ecology
+
 ### Projects
 
 - Small kernel for x86_64: [GluOS](https://github.com/Boris-rnd/GluOS)
-- A RISC-V emulator: 
+- A RISC-V emulator: doesn't have a separate repo, but probably under [my portofolio projects](https://github.com/Boris-rnd/portfolio-projects)
 - A RISC-V kernel: [Rinux](https://github.com/Boris-rnd/Rinux)
 
-I've made several projects over the years (I started when I was 9). I started by learning Python, then I wanted to go more low level to get more speed, I tried C++ but didn't like it that much Then I discovered the blazingly fast rust, I made my own OS, Risc-V emulator, raytracer, physics simulations and much more
-
-Most of my projects are pinned, or are in the Old-projects and portfolio-projects repo
-
-Now I want to learn (quantum) physics to work on quantum computer hardware In the future I would like to unite all of these passions: maths, physics and computer science, and if possible, ecology
 
 
 <!--
